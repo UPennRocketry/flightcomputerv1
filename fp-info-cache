@@ -1,4 +1,4 @@
-23870914643763639
+23872650525935626
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -57756,6 +57756,13 @@ PQFN50P450X300X100-16N
 0
 16
 16
+HPRfootprints
+SLW-913535_CUD
+
+SLW-913535-2A-SMT 
+0
+6
+6
 HPRfootprints
 SOIC-8_5P28X5P28_WIN
 
