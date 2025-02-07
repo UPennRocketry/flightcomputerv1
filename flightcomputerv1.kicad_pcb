@@ -1252,7 +1252,7 @@
 		(descr "Buzzer Magnetic 9mm AT-0927-TT-6-R, http://www.puiaudio.com/pdf/AT-0927-TT-6-R.pdf")
 		(tags "Buzzer Magnetic 9mm AT-0927-TT-6-R")
 		(property "Reference" "BZ1"
-			(at 2 5.5 360)
+			(at 2 5.5 0)
 			(layer "F.SilkS")
 			(uuid "5873febf-57e3-4933-812a-4124ec3068a0")
 			(effects
@@ -1263,7 +1263,7 @@
 			)
 		)
 		(property "Value" "Buzzer"
-			(at 2 7 360)
+			(at 2 7 0)
 			(layer "F.Fab")
 			(uuid "6a5fc364-a161-44c2-b350-167636711ce3")
 			(effects
@@ -1351,7 +1351,7 @@
 			(uuid "c28d5b40-6eeb-483b-bcdc-b423b1a22334")
 		)
 		(fp_text user "+"
-			(at -1.5 -0.1 360)
+			(at -1.5 -0.1 0)
 			(layer "F.SilkS")
 			(uuid "dcccd795-e00f-4f33-9975-9f38e9014870")
 			(effects
@@ -1362,7 +1362,7 @@
 			)
 		)
 		(fp_text user "+"
-			(at -1.5 -0.1 360)
+			(at -1.5 -0.1 0)
 			(layer "F.Fab")
 			(uuid "96784518-ad5b-4cf3-8f5f-90199ca9e27c")
 			(effects
@@ -1373,7 +1373,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 2 2 360)
+			(at 2 2 0)
 			(layer "F.Fab")
 			(uuid "9a40feda-0438-46d4-89eb-3b65f614468c")
 			(effects
@@ -4038,7 +4038,7 @@
 			(uuid "ed93c71e-9584-4b87-837b-25425d257c59")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 2.77 2.54 360)
+			(at 2.77 2.54 0)
 			(layer "F.Fab")
 			(uuid "f9f2c67b-bd3d-4df8-99e2-2d7dfe7648a1")
 			(effects
@@ -4123,7 +4123,7 @@
 			)
 		)
 		(property "Footprint" "HPRfootprints:SLW-913535_CUD"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "7abea18e-f0d6-4c92-bf00-35e58d377b3c")
@@ -4135,7 +4135,7 @@
 			)
 		)
 		(property "Datasheet" "SLW-913535-2A-SMT"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "8fd6364b-d814-4cec-9be7-b35c5b987772")
@@ -4147,7 +4147,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f6ef8f36-a891-4e93-9a5a-ec8a0f747041")
@@ -8592,7 +8592,7 @@
 			(uuid "b0f4ccd5-8e9f-41d3-9e0b-bd907a6b1056")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 2.77 2.54 360)
+			(at 2.77 2.54 0)
 			(layer "F.Fab")
 			(uuid "a756973c-eb25-4ce3-ae8e-a06e5559f619")
 			(effects
@@ -8654,7 +8654,7 @@
 		(descr "Molex Stackable Linear Connector, 171971-0024 (compatible alternatives: 171971-0124, 171971-0224), 24 Pins per row (https://www.molex.com/pdm_docs/sd/1719710002_sd.pdf), generated with kicad-footprint-generator")
 		(tags "connector Molex SL vertical")
 		(property "Reference" "J7"
-			(at 29.21 -3.75 360)
+			(at 29.21 -3.75 0)
 			(layer "F.SilkS")
 			(uuid "1c441759-5055-49ef-bfa1-59d619909a34")
 			(effects
@@ -8665,7 +8665,7 @@
 			)
 		)
 		(property "Value" "Conn_01x24"
-			(at 29.21 5.25 360)
+			(at 29.21 5.25 0)
 			(layer "F.Fab")
 			(uuid "377c584a-83fb-4dc6-b546-300051e2b138")
 			(effects
@@ -9110,7 +9110,7 @@
 			(uuid "c2c3d29c-479d-47b0-a802-f1e73b1dabdf")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 29.21 1.85 360)
+			(at 29.21 1.85 0)
 			(layer "F.Fab")
 			(uuid "9bbfc73f-14ba-4fb8-84fb-c82e6b5761de")
 			(effects
@@ -11582,7 +11582,7 @@
 		(descr "JST XA series connector, B02B-XASK-1-A (http://www.jst-mfg.com/product/pdf/eng/eXA1.pdf), generated with kicad-footprint-generator")
 		(tags "connector JST XA vertical boss")
 		(property "Reference" "J5"
-			(at 1.25 -4.4 360)
+			(at 1.25 -4.4 0)
 			(layer "F.SilkS")
 			(uuid "38b53401-fb0e-4cfb-963d-822d394adeff")
 			(effects
@@ -11593,7 +11593,7 @@
 			)
 		)
 		(property "Value" "Conn_01x02"
-			(at 1.25 4.4 360)
+			(at 1.25 4.4 0)
 			(layer "F.Fab")
 			(uuid "f1b3d782-e880-4825-a62e-c68a0f9e804c")
 			(effects
@@ -11948,7 +11948,7 @@
 			(uuid "2d34f95f-dc80-4914-a84c-34573ce694af")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.25 1.5 360)
+			(at 1.25 1.5 0)
 			(layer "F.Fab")
 			(uuid "2f182a74-d660-4ba3-a85b-aec109f1d240")
 			(effects
@@ -15245,7 +15245,7 @@
 			(uuid "56afa9b0-09e1-4f1f-848a-30055bdd0631")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "44bdb82d-79df-49da-873e-bbaa2b757dfb")
 			(effects
