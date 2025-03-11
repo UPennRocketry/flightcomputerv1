@@ -16404,7 +16404,7 @@
 				)
 			)
 		)
-		(property "Footprint" "HPRfootprints:PQFN50P450X300X100-16N"
+		(property "Footprint" "HPRfootprints:MMC5983MA_MEM"
 			(at 83.82 249.86 0)
 			(effects
 				(font

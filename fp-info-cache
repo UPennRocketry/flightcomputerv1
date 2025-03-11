@@ -1,4 +1,4 @@
-23874390248099012
+23876139726628489
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -57749,6 +57749,13 @@ ADXL375BCCZ-RL
 0
 14
 14
+HPRfootprints
+MMC5983MA_MEM
+
+MMC5983MA 
+0
+16
+16
 HPRfootprints
 PQFN50P450X300X100-16N
 
