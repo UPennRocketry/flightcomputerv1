@@ -301,6 +301,45 @@
 				)
 			)
 		)
+		(property "Package" "8-SMD"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cd4b364a-8972-4aa1-9712-4a9c96e910ab")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "TE Connectivity Measurement Specialties"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6c8cd785-c37a-40e0-bb03-d70a2a63437d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "MS560702BA03-50"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f83d3f47-7ea4-406c-b789-1b26736fae0f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LGA*3x5mm*P1.25mm*")
 		(path "/6139c6a3-0b87-4855-a16c-9a85c81d43a4")
 		(sheetname "Root")
@@ -2609,19 +2648,6 @@
 				)
 			)
 		)
-		(property "Mouser Part Number" "781-SI4925DDY-GE3"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "148efafb-c6ce-4ec7-aecb-82b17bb5b63f")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Vishay-Semiconductors/SI4925DDY-T1-GE3?qs=ru2xu5lizsDqm0sSdBYmQg%3D%3D"
 			(at 0 0 0)
 			(unlocked yes)
@@ -2635,12 +2661,12 @@
 				)
 			)
 		)
-		(property "Manufacturer_Name" "Vishay"
+		(property "MPN" "SI4925DDY-T1-GE3"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "53aacbc9-414e-498f-89d8-d5cacaa6644e")
+			(uuid "71b23678-52d7-4452-a54e-7d49962ba087")
 			(effects
 				(font
 					(size 1 1)
@@ -2648,12 +2674,25 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "SI4925DDY-T1-GE3"
+		(property "Manufacturer" "Vishay Siliconix"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "28bdca9a-241a-4f15-8f8b-53a5697f5171")
+			(uuid "b569c248-3843-4d3f-9c19-194aa938ac4b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Package" "8-SOIC (0.154\", 3.90mm Width)"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "95ff1007-a7a2-47c3-82bf-526a8251b1b7")
 			(effects
 				(font
 					(size 1 1)
@@ -3377,6 +3416,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "RF Solutions"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8ffb5d5d-9649-4a49-bc45-a82ddd1ba18f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Package" "16-SMD Module"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e218da39-f500-4525-8622-a9ca15369d7f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "RFM95W-915S2"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "25ee0b74-a0a0-4edb-9303-0bd5292ae043")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -4660,7 +4738,7 @@
 		(descr "Through hole straight pin header, 1x01, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x01 2.54mm single row")
 		(property "Reference" "TP3"
-			(at 0 -2.33 360)
+			(at 0 -2.33 0)
 			(layer "F.SilkS")
 			(uuid "c65d2785-ab9f-4935-aaf8-c77d0897e46f")
 			(effects
@@ -4671,7 +4749,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 0 2.33 360)
+			(at 0 2.33 0)
 			(layer "F.Fab")
 			(uuid "cb849819-754c-4101-bd0a-c78e0beecafe")
 			(effects
@@ -5181,7 +5259,7 @@
 		(path "/03316b19-5469-4e23-9db6-d6e27071e5d4")
 		(sheetname "Root")
 		(sheetfile "flightcomputerv1.kicad_sch")
-		(attr through_hole)
+		(attr through_hole dnp)
 		(fp_line
 			(start -31.75 -3.81)
 			(end -30.48 -3.81)
@@ -8446,7 +8524,7 @@
 			(uuid "acd40a16-1326-4117-bc83-beb59e1bed99")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "f3b13639-1d43-427c-a7e9-58b66a922d38")
 			(effects
@@ -9581,6 +9659,45 @@
 				)
 			)
 		)
+		(property "Manufacturer" "Microchip Technology"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b902eb05-e176-4fbc-8de8-4879caa48860")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "MIC29302AWD-TR"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9b58a14c-579e-49a2-8e0e-73ce46682f62")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Package" "TO-252-6, DPAK (5 Leads + Tab)"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7a5f6eb7-3b3c-4b93-b008-90516b2199a3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "TO*252*")
 		(path "/7bcc778e-5d0e-49e4-b83c-686f4f5dae00")
 		(sheetname "Root")
@@ -10166,7 +10283,7 @@
 			)
 		)
 		(property "Value" "10uF"
-			(at 0 1.05 360)
+			(at 0 1.05 0)
 			(layer "F.Fab")
 			(uuid "898fad86-29e4-4396-9d9d-012f367ab0b2")
 			(effects
@@ -10301,7 +10418,7 @@
 			(uuid "2d67d822-cbce-4b83-86c1-e8587870142c")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 -0.68 360)
+			(at 0 -0.68 0)
 			(layer "F.Fab")
 			(uuid "fc0db708-8ee2-4ef1-8d43-05dd5bfa982c")
 			(effects
@@ -11416,7 +11533,7 @@
 			)
 		)
 		(property "Value" "1uF"
-			(at 0 1.05 360)
+			(at 0 1.05 0)
 			(layer "F.Fab")
 			(uuid "c2770225-2e95-44c4-a728-ba260a3c6bbe")
 			(effects
@@ -11551,7 +11668,7 @@
 			(uuid "ef74f131-0d98-438b-975a-2df9216b6c0e")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 -0.68 360)
+			(at 0 -0.68 0)
 			(layer "F.Fab")
 			(uuid "951683cd-8627-4d14-b7e4-f453254a021c")
 			(effects
@@ -11667,19 +11784,6 @@
 				)
 			)
 		)
-		(property "MF" "Bosch Sensortec"
-			(at 0 0 -90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "f96be635-3031-4a13-8c16-2483fd91fd4e")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "PURCHASE-URL" "https://pricing.snapeda.com/search/part/BMI088/?ref=eda"
 			(at 0 0 -90)
 			(unlocked yes)
@@ -11693,38 +11797,12 @@
 				)
 			)
 		)
-		(property "PACKAGE" "VFLGA-16 Bosch Sensortec"
-			(at 0 0 -90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "de3d61e4-8ef1-4f41-98f3-e29176451980")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "PRICE" "None"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "5a7737bd-ea34-44cf-a189-2b6063c24490")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MP" "BMI088"
-			(at 0 0 -90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "98a32b9e-861b-489b-89bf-32e9ec54d45c")
 			(effects
 				(font
 					(size 1 1)
@@ -11751,6 +11829,45 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "647690bd-8cc2-4ffb-b18f-8a4644fe2429")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Bosch Sensortec"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e9ed9f37-3454-4fda-aeaf-dfd3c65fab40")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Package" "16-VFLGA Module"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "52ac80c9-be7e-42e9-80c9-069acf618047")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "BMI088"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6383754e-5d43-4cee-bcec-526e329c21c2")
 			(effects
 				(font
 					(size 1 1)
@@ -13011,6 +13128,45 @@
 				)
 			)
 		)
+		(property "Manufacturer" "u-blox"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6a764f01-995d-4baa-838d-386621407bf1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "MAX-M10S-00B"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2796c71d-3f99-44a1-b148-a3c6418c9425")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Package" "18-SMD Module"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b3aef575-a84d-44e1-b609-9b212c6bebd9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "ublox?MAX*")
 		(path "/c723516f-4bc1-4a67-89dc-fec301e660bf")
 		(sheetname "Root")
@@ -13431,7 +13587,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SWITCH TACTILE SPST-NO 0.05A 12V"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -13456,12 +13612,12 @@
 				)
 			)
 		)
-		(property "MANUFACTURER" "CUI Devices"
+		(property "STANDARD" "Manufacturer Recommendations"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3185510f-72c6-4956-809f-30dfc9c82c5c")
+			(uuid "89a10339-2ca1-4650-b976-57f44bf5219f")
 			(effects
 				(font
 					(size 1 1)
@@ -13469,12 +13625,38 @@
 				)
 			)
 		)
-		(property "STANDARD" "Manufacturer Recommendations"
+		(property "Manufacturer" "Same Sky (Formerly CUI Devices)"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "89a10339-2ca1-4650-b976-57f44bf5219f")
+			(uuid "137ed72f-bc39-472a-bbf7-05e26ed3d1a7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "TS04-66-70-BK-160-SMT"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "061242a3-9dcb-443d-8982-5ed7ece67c42")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Package" "Gull Wing"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "69aa38d8-61da-4129-822d-5ffd3e5b0392")
 			(effects
 				(font
 					(size 1 1)
@@ -13754,19 +13936,6 @@
 				)
 			)
 		)
-		(property "Mouser Part Number" "438-MMC5983MA"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "1697e87c-9d2a-498c-afb5-7119e4d3eff0")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/MEMSIC/MMC5983MA?qs=B6kkDfuK7%2FD5qasHMdEt2g%3D%3D"
 			(at 0 0 90)
 			(unlocked yes)
@@ -13780,12 +13949,12 @@
 				)
 			)
 		)
-		(property "Manufacturer_Name" "MEMSIC"
+		(property "MPN" "MMC5983MA"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "92beb2c4-2029-4d96-bf57-73cf6b4a5194")
+			(uuid "75a1e20d-bd19-4787-8e4a-ed072fec3852")
 			(effects
 				(font
 					(size 1 1)
@@ -13793,12 +13962,25 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "MMC5983MA"
+		(property "Manufacturer" "MEMSIC"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ce4a4a4c-56f0-4413-9022-34520c319aa6")
+			(uuid "047050fa-bd6b-48cf-bd27-9a897374f432")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Package" "16-VFLGA"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "be286cf7-f904-4f82-be3c-c192220179e2")
 			(effects
 				(font
 					(size 1 1)
@@ -14807,6 +14989,45 @@
 				)
 			)
 		)
+		(property "Manufacturer" "STMicroelectronics"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4b42a607-3571-4a13-a195-6e92014f248d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "LD1117S50TR"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "116915b8-6e15-4b6a-a98e-6f44e00bdeb3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Package" "TO-261-4, TO-261AA"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0135e537-f7af-4cf1-8a05-81992116bd3c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "SOT?223*TabPin2*")
 		(path "/0408b3a5-aa3e-4d77-9375-e6fe5b39d650")
 		(sheetname "Root")
@@ -15774,7 +15995,7 @@
 		(descr "Capacitor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor handsolder")
 		(property "Reference" "C1"
-			(at 1.757931 -0.03459 360)
+			(at 1.757931 -0.03459 0)
 			(layer "F.SilkS")
 			(uuid "ac3e8a16-3829-46a6-aea3-3eff8377a750")
 			(effects
@@ -16197,7 +16418,7 @@
 			(uuid "9912fe98-65f3-42e4-8458-9355fc6e0da9")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "69f6197a-8b9a-4b76-bc10-b02fbaad77d3")
 			(effects

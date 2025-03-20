@@ -1,0 +1,51 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type
+118.5,-77.75,0.0,top,BZ1,,,MagneticBuzzer_PUI_AT-0927-TT-6-R,Buzzer,tht
+87.75,-115.6575,90.0,top,C1,,,C_0201_0603Metric_Pad0.64x0.40mm_HandSolder,0.1uF,smt
+131.0,-99.25,180.0,top,C10,,,C_0201_0603Metric_Pad0.64x0.40mm_HandSolder,10uF,smt
+78.5,-111.25,0.0,top,C2,,,C_0201_0603Metric_Pad0.64x0.40mm_HandSolder,1uF,smt
+80.5,-111.25,0.0,top,C3,,,C_0201_0603Metric_Pad0.64x0.40mm_HandSolder,10uF,smt
+94.415,-113.25,90.0,top,C4,,,C_0201_0603Metric_Pad0.64x0.40mm_HandSolder,0.1uF,smt
+93.665,-113.25,90.0,top,C5,,,C_0201_0603Metric_Pad0.64x0.40mm_HandSolder,0.1uF,smt
+73.25,-68.75,90.0,top,C6,,,C_0201_0603Metric_Pad0.64x0.40mm_HandSolder,100nF,smt
+57.8425,-74.75,0.0,top,C7,,,C_0201_0603Metric_Pad0.64x0.40mm_HandSolder,10uF,smt
+74.25,-68.75,90.0,top,C8,,,C_0201_0603Metric_Pad0.64x0.40mm_HandSolder,10uF,smt
+78.5925,-72.0,180.0,top,C9,,,C_0201_0603Metric_Pad0.64x0.40mm_HandSolder,22uF,smt
+64.98,-115.12875,90.0,top,D1,,,LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder,LED,smt
+62.48,-115.12875,90.0,top,D2,,,LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder,LED,smt
+59.98,-115.12875,90.0,top,D3,,,LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder,LED,smt
+79.475001,-113.75,90.0,top,IC1,MMC5983MA,16-VFLGA,MMC5983MA_MEM,MMC5983MA,smt
+112.96,-64.0,0.0,top,J1,,,TerminalBlock_TE_282834-2_1x02_P2.54mm_Horizontal,Screw_Terminal_01x02,tht
+124.27,-64.0,180.0,top,J2,,,TerminalBlock_TE_282834-2_1x02_P2.54mm_Horizontal,Screw_Terminal_01x02,tht
+63.98459,-64.145431,0.0,top,J5,,,JST_XA_B02B-XASK-1-A_1x02_P2.50mm_Vertical,Conn_01x02,tht
+52.33,-105.0,0.0,top,J6,,,Molex_SL_171971-0024_1x24_P2.54mm_Vertical,Conn_01x24,tht
+110.76459,-80.382931,180.0,top,J7,,,Molex_SL_171971-0024_1x24_P2.54mm_Vertical,Conn_01x24,tht
+135.25,-65.0,90.0,top,J8,,,SMA_Amphenol_132134-10_Vertical,Conn_Coaxial,smt
+135.0,-92.75,90.0,top,J9,,,SMA_Amphenol_132134-10_Vertical,Conn_Coaxial,smt
+87.0,-67.25,180.0,top,M1,,,PinHeader_1x03_P2.54mm_Vertical,Motor_Servo,tht
+95.75,-67.29,180.0,top,M2,,,PinHeader_1x03_P2.54mm_Vertical,Motor_Servo,tht
+105.25,-68.0,0.0,top,Q1,SI4925DDY-T1-GE3,"8-SOIC (0.154"", 3.90mm Width)",SOIC127P600X175-8N,SI4925DDY-T1-GE3,smt
+103.5,-63.25,180.0,top,Q2,,,SOT-23,MMBT3904,smt
+103.5625,-72.8,180.0,top,Q3,,,SOT-23,MMBT3904,smt
+100.75,-66.5675,-90.0,top,R1,,,R_0201_0603Metric_Pad0.64x0.40mm_HandSolder,10K,smt
+62.5,-112.89125,-90.0,top,R10,,,R_0201_0603Metric_Pad0.64x0.40mm_HandSolder,150,smt
+60.0,-112.89125,-90.0,top,R11,,,R_0201_0603Metric_Pad0.64x0.40mm_HandSolder,150,smt
+80.5925,-72.0,180.0,top,R14,,,R_0201_0603Metric_Pad0.64x0.40mm_HandSolder,1.2k,smt
+76.5,-72.0,0.0,top,R15,,,R_0201_0603Metric_Pad0.64x0.40mm_HandSolder,4.7k,smt
+106.25,-64.0,90.0,top,R2,,,R_0201_0603Metric_Pad0.64x0.40mm_HandSolder,1K,smt
+100.75,-69.4075,-90.0,top,R3,,,R_0201_0603Metric_Pad0.64x0.40mm_HandSolder,10K,smt
+102.5,-75.25,0.0,top,R4,,,R_0201_0603Metric_Pad0.64x0.40mm_HandSolder,1K,smt
+132.96541,-71.21541,180.0,top,R7,,,R_0201_0603Metric_Pad0.64x0.40mm_HandSolder,4.7k,smt
+132.96541,-70.21541,180.0,top,R8,,,R_0201_0603Metric_Pad0.64x0.40mm_HandSolder,4.7k,smt
+65.0,-112.89125,-90.0,top,R9,,,R_0201_0603Metric_Pad0.64x0.40mm_HandSolder,150,smt
+102.0,-115.5,90.0,top,S1,,,SW_TS04-66-70-BK-160-SMT,TS04-66-70-BK-160-SMT,smt
+112.0,-115.5,90.0,top,S2,TS04-66-70-BK-160-SMT,Gull Wing,SW_TS04-66-70-BK-160-SMT,TS04-66-70-BK-160-SMT,smt
+67.25,-70.75,-90.0,top,TP1,,,PinHeader_1x01_P2.54mm_Vertical,TestPoint,tht
+61.75,-74.0,-90.0,top,TP2,,,PinHeader_1x01_P2.54mm_Vertical,TestPoint,tht
+91.5,-66.0,180.0,top,TP3,,,PinHeader_1x01_P2.54mm_Vertical,TestPoint,tht
+81.53459,-92.682931,0.0,top,U1,,,Teensy41,Teensy4.1,tht
+85.28459,-114.382931,180.0,top,U2,MS560702BA03-50,8-SMD,LGA-8_3x5mm_P1.25mm,MS5607-02BA,smt
+91.415,-114.165,-90.0,top,U3,BMI088,16-VFLGA Module,PQFN50P450X300X100-16N,BMI088,smt
+78.25,-65.0,90.0,top,U4,MIC29302AWD-TR,"TO-252-6, DPAK (5 Leads + Tab)",TO-252-5_TabPin3,MIC29302AWD,smt
+133.95,-77.948341,90.0,top,U5,MAX-M10S-00B,18-SMD Module,ublox_MAX,MAX-M10S,smt
+130.98459,-110.382931,90.0,top,U6,RFM95W-915S2,16-SMD Module,HOPERF_RFM9XW_SMD,RFM95W-915S2,smt
+55.13459,-70.582931,180.0,top,U7,LD1117S50TR,"TO-261-4, TO-261AA",SOT-223-3_TabPin2,LD1117S50TR_SOT223,smt
