@@ -1,4 +1,4 @@
-23876139726628489
+23886644993123505
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -57729,6 +57729,13 @@ Fuse Fuseholder TR5 Littelfuse/Wickmann No. 460 No560
 2
 2
 HPRfootprints
+HPRLOGOSILK
+
+
+0
+0
+0
+HPRfootprints
 LGA_CC-14-1_ADI
 
 ADXL375BCCZ-RL 
@@ -57756,6 +57763,13 @@ MMC5983MA
 0
 16
 16
+HPRfootprints
+PQFN50P200X200X70-12N
+
+
+0
+12
+12
 HPRfootprints
 PQFN50P450X300X100-16N
 
@@ -57827,6 +57841,13 @@ MCP130T-300I/TT
 3
 3
 HPRfootprints
+SW_KMR221GLFS
+
+
+0
+5
+5
+HPRfootprints
 SW_TS04-66-70-BK-160-SMT
 
 
@@ -57834,12 +57855,33 @@ SW_TS04-66-70-BK-160-SMT
 4
 4
 HPRfootprints
+TE_282837-2
+
+
+0
+2
+2
+HPRfootprints
+TO-252-5_MCH
+
+MIC29302AWD-TR 
+0
+6
+6
+HPRfootprints
 Teensy41
 
 
 0
 67
 67
+HPRfootprints
+XCVR_L80RE-M37
+
+
+0
+12
+12
 Heatsink
 Heatsink_35x26mm_1xFixation3mm_Fischer-SK486-35
 Heatsink, 35mm x 26mm, 1x Fixation 3mm, Fischer SK486-35

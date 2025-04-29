@@ -1,0 +1,38 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Manufacturer,Description,Notes
+BZ1,1,Buzzer,MagneticBuzzer_PUI_AT-0927-TT-6-R,THT,AT-0927-TT-6-R,,tht,PUI Audio,"Buzzer, polarized",
+"C1, C4, C5",3,0.1uF,C_0201_0603Metric_Pad0.64x0.40mm_HandSolder,0603,,,smt,,"Unpolarized capacitor, 1% tolerance",generic
+"C10, C3, C7, C8",4,10uF,C_0201_0603Metric_Pad0.64x0.40mm_HandSolder,0603,,,smt,,"Unpolarized capacitor, 1% tolerance",generic
+C2,1,1uF,C_0201_0603Metric_Pad0.64x0.40mm_HandSolder,0603,,,smt,,"Unpolarized capacitor, 1% tolerance",generic
+C6,1,100nF,C_0201_0603Metric_Pad0.64x0.40mm_HandSolder,0603,,,smt,,"Unpolarized capacitor, 1% tolerance",generic
+C9,1,22uF,C_0201_0603Metric_Pad0.64x0.40mm_HandSolder,0603,,,smt,,"Unpolarized capacitor, 1% tolerance",generic
+"D1, D2, D3",3,LED,LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder,1005,,,smt,,Light emitting diode,generic
+IC1,1,MMC5983MA,MMC5983MA_MEM,16-VFLGA,MMC5983MA,,smt,MEMSIC,3-AXIS MAGNETIC SENSOR,
+"J1, J2",2,Screw_Terminal_01x02,TerminalBlock_TE_282834-2_1x02_P2.54mm_Horizontal,THT,282834-2,,tht,TE Connectivity AMP Connectors,TERM BLK 2P SIDE ENT 2.54MM PCB,Ensure screw terminals facing out of board
+J10,1,Conn_01x01,PinHeader_1x01_P2.54mm_Vertical,THT,,Yes,tht,,"Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)",
+J11,1,Conn_01x01,PinHeader_1x01_P2.54mm_Vertical,THT,,Yes,tht,,"Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)",
+J3,1,Conn_01x03,PinHeader_1x03_P2.54mm_Vertical,THT,,Yes,tht,,"Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)",
+J4,1,Conn_01x03,PinHeader_1x03_P2.54mm_Vertical,THT,,Yes,tht,,"Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)",
+J5,1,Conn_01x02,JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal,THT,S2B-PH-K-S,,tht,JST Sales America Inc.,CONN HEADER R/A 2POS 2MM,
+J6,1,Conn_01x24,Molex_SL_171971-0024_1x24_P2.54mm_Vertical,THT,,Yes,tht,,"Generic connector, single row, 01x24, script generated (kicad-library-utils/schlib/autogen/connector/)",
+J7,1,Conn_01x24,Molex_SL_171971-0024_1x24_P2.54mm_Vertical,THT,,Yes,tht,,"Generic connector, single row, 01x24, script generated (kicad-library-utils/schlib/autogen/connector/)",
+"J8, J9",2,Conn_Coaxial,SMA_Amphenol_132134-10_Vertical,SMD,132134,,smt,Amphenol RF,CONN SMA JACK STR 50 OHM PCB,
+"M1, M2",2,Motor_Servo,PinHeader_1x03_P2.54mm_Vertical,THT,,,tht,,"Servo Motor (Futaba, HiTec, JR connector)",
+Q1,1,SI4925DDY-T1-GE3,SOIC127P600X175-8N,"8-SOIC (0.154"", 3.90mm Width)",SI4925DDY-T1-GE3,,smt,Vishay Siliconix,"Vishay SI4925DDY-T1-GE3 Dual P-channel MOSFET Transistor, 8 A, 30 V, 8-Pin SOIC",
+Q2,1,MMBT3904,SOT-23,SOT-23-3 (TO-236),MMBT3904LT3G,,smt,onsemi,"0.2A Ic, 40V Vce, Small Signal NPN Transistor, SOT-23",
+Q3,1,MMBT3904,SOT-23,SOT-23-3 (TO-236),MMBT3904LT3G,,smt,onsemi,"0.2A Ic, 40V Vce, Small Signal NPN Transistor, SOT-23",
+"R1, R3",2,10K,R_0201_0603Metric_Pad0.64x0.40mm_HandSolder,0603,,,smt,,"Resistor, 1% tolerance",generic
+"R10, R11, R9",3,150,R_0201_0603Metric_Pad0.64x0.40mm_HandSolder,0603,,,smt,,"Resistor, 1% tolerance",generic
+R14,1,1.2k,R_0201_0603Metric_Pad0.64x0.40mm_HandSolder,0603,,,smt,,"Resistor, 1% tolerance",generic
+"R15, R7, R8",3,4.7k,R_0201_0603Metric_Pad0.64x0.40mm_HandSolder,0603,,,smt,,"Resistor, 1% tolerance",generic
+"R2, R4",2,1K,R_0201_0603Metric_Pad0.64x0.40mm_HandSolder,0603,,,smt,,"Resistor, 1% tolerance",generic
+S1,1,TS04-66-70-BK-160-SMT,SW_TS04-66-70-BK-160-SMT,Gull Wing,TS04-66-70-BK-160-SMT,,smt,Same Sky (Formerly CUI Devices),SWITCH TACTILE SPST-NO 0.05A 12V,generic
+S2,1,TS04-66-70-BK-160-SMT,SW_TS04-66-70-BK-160-SMT,Gull Wing,TS04-66-70-BK-160-SMT,,smt,Same Sky (Formerly CUI Devices),SWITCH TACTILE SPST-NO 0.05A 12V,
+"TP1, TP4, TP5, TP6, TP7",5,TestPoint,TestPoint_Pad_1.0x1.0mm,THT,,,tht,,test point,
+"TP2, TP3",2,TestPoint,PinHeader_1x01_P2.54mm_Vertical,THT,,Yes,tht,,test point,
+U1,1,Teensy4.1,Teensy41,,,Yes,tht,,,Will solder myself
+U2,1,MS5607-02BA,LGA-8_3x5mm_P1.25mm,8-SMD,MS560702BA03-50,,smt,TE Connectivity Measurement Specialties,"Barometric pressure sensor, 20cm resolution, 10 to 1200 mbar, I2C and SPI interface up to 20MHz, LGA-8",
+U3,1,BMI088,PQFN50P450X300X100-16N,16-VFLGA Module,BMI088,,smt,Bosch Sensortec,"Accelerometer, Gyroscope, 6 Axis Sensor I²C, SPI Output",
+U4,1,MIC29302AWD,TO-252-5_TabPin3,"TO-252-6, DPAK (5 Leads + Tab)",MIC29302AWD-TR,,smt,Microchip Technology,"3A low dropout linear regulator, shutdown pin, 3V to 16V input voltage, 1.24V to 15V adjustable output, TO-252",
+U5,1,MAX-M10S,ublox_MAX,18-SMD Module,MAX-M10S-00B,,smt,u-blox,"GNSS Module MAX M10, VCC 1.65V to 3.6V",
+U6,1,RFM95W-915S2,HOPERF_RFM9XW_SMD,16-SMD Module,RFM95W-915S2,,smt,RF Solutions,"Low power long range transceiver module, SPI and parallel interface, 915 MHz, spreading factor 6 to12, bandwidth 7.8 to 500kHz, -111 to -148 dBm, SMD-16, DIP-16",
+U7,1,LD1117S50TR_SOT223,SOT-223-3_TabPin2,"TO-261-4, TO-261AA",LD1117S50TR,,smt,STMicroelectronics,"800mA Fixed Low Drop Positive Voltage Regulator, Fixed Output 5.0V, SOT-223",
